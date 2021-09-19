@@ -1,4 +1,4 @@
-Game.registerMod('industrial cookies2ex',{
+Game.registerMod('industrial cookies',{
 	init:function(){
 		document.getElementsByName("Game.cookies");
 		document.getElementsByName("Game.recalculateGains");
