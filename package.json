@@ -4,7 +4,8 @@
   "description": "add the concept of electricity to the game cookie clicker",
   "main": "main.js",
   "scripts": {
-    "dist": "mkdir -p dist && cd -R "
+    "build": "webpack --mode development",
+    "release": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/reckless0729/industeialCookies/issues"
   },
-  "homepage": "https://github.com/reckless0729/industeialCookies#readme"
+  "homepage": "https://github.com/reckless0729/industeialCookies#readme",
+  "devDependencies": {
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  }
 }
