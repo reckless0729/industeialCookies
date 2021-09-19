@@ -1,6 +1,6 @@
 {
 	"Name": "Industrial Cookies",
-	"ID": "industrial cookies2ex",
+	"ID": "industrial cookies",
 	"Author": "reck",
 	"Description": "電気の概念を追加します。現段階ではCpsにボーナスがかかる程度ですが、今後様々なアップデートを計画しています。まずは手回し発電機で電気を貯めましょう。",
 	"ModVersion": 1.0,
