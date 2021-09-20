@@ -54,6 +54,7 @@ export function initVariables(mod) {
     MOD.x8 = 1;
     MOD.x9 = 1;
     MOD.x10 = 1;
+    MOD.mine=1;
     MOD.tlevel = 0;//Thermal Level
     MOD.hlevel = 0; //Hydro Level
     MOD.wlevel = 0;//Wind Level
